@@ -25,6 +25,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 
 ## Data Science
 
+* [AI/ML Careers](https://aiml.careers/)
 * [DataJobs.com](https://datajobs.com/)
 * [AI Jobs](https://ai-jobs.net/)
 * [Machine learning jobs](https://jobhunt.ai/)
